@@ -24,3 +24,7 @@ color:
   rhythmicContrast: 0.4580248
 layout_spectrum: 1
 name: MID
+navigation:
+  - name: mid distribution
+    url: middistribution.com
+    type: external
