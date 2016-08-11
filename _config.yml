@@ -1,8 +1,5 @@
-layout_spectrum: 0.8978124
-typography_spectrum: 0.2253671
 color:
   saturation: 0.4089258
-  lightness: 0.3459439
   brandStrength: 0.9599978
   rhythmicContrast: 0.4580248
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  lightness: 0.3459439
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.8978124
+typography_spectrum: 0.2253671
 name: MID
